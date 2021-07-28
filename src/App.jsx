@@ -1,45 +1,18 @@
 import React, { useState } from 'react'
-import logo from './logo.svg'
-import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+    const [count, setCount] = useState(0)
 
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Vite + React!</p>
-        <p>
-          <button type="button" onClick={() => setCount((count) => count + 1)}>
-            count is: {count}
-          </button>
-        </p>
-        <p>
-          Edit <code>App.jsx</code> and save to test HMR updates.
-        </p>
-        <p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-          {' | '}
-          <a
-            className="App-link"
-            href="https://vitejs.dev/guide/features.html"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Vite Docs
-          </a>
-        </p>
-      </header>
-    </div>
-  )
+    return (
+        <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center">
+            <div className="space-y-4 flex flex-col items-center">
+                <div className="text-3xl font-bold bg-gray-100 rounded-lg px-8 py-6">{count}</div>
+                <button className="" onClick={() => setCount(x => x + 1)}>
+                    Click Me
+                </button>
+            </div>
+        </div>
+    )
 }
 
 export default App
