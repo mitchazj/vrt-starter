@@ -46,5 +46,5 @@ npx tailwindcss init
 
 # Credits
 
-- @mitchazj (main author, maintainer)
+- @mitchazj (orig. author, maintainer)
 - @guesant 
