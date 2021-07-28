@@ -20,6 +20,8 @@ npm run dev
 
 ## Steps Used to Create This Template
 
+Ie, what would you need to do if you _didn't_ want to use this template?
+
 ```bash
 # 1. create initial template
 npm init @vitejs/app vrt-starter
