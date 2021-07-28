@@ -16,7 +16,7 @@ npm run dev
 
 ## Really Quick Start
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/mitchazj/vrt-starter)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mitchazj/vrt-starter)
 
 ## Steps Used to Create This Template
 
