@@ -41,7 +41,7 @@ npx tailwindcss init
 ## Documentation for Included Libraries
 
 - [React](https://reactjs.org/)
-- [Vite](https://vite.co/docs/v2/getting-started)
+- [Vite](https://vitejs.dev/guide/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 # Credits
