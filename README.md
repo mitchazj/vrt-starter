@@ -1,3 +1,5 @@
+![VRT-Starter](https://user-images.githubusercontent.com/15032956/136721668-706c5567-dad0-4fb4-ba35-921e50488976.png)
+
 # VRT-Starter (vite, react, tailwindcss)
 
 The most lightweight, vanilla template for React, Vite, & Tailwind CSS.
