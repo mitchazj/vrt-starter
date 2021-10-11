@@ -2,7 +2,7 @@
 
 # VRT-Starter (vite, react, tailwindcss)
 
-The most lightweight, vanilla template for React, Vite, & Tailwind CSS.
+The most vanilla, lightweight template for React, Vite, & Tailwind CSS.
 
 It's designed to save you a couple minutes of setup time, and give you peace of mind that nothing unnecessary is included or behaving like dead weight.
 
